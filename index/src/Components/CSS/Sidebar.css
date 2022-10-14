@@ -1,0 +1,24 @@
+.list {
+    margin-top: 1rem;
+}
+
+.home-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.home-icon {
+    margin-top: 1rem;
+}
+
+.side-icons {
+    height: 24px;
+    width: 24px;
+}
+
+.sidebar-text {
+    font-size: 0.7rem;
+    margin-top: 0.5rem;
+}
